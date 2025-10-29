@@ -8,7 +8,7 @@ Learn how to engage with the Kubernetes community on the [community page](http:/
 
 You can reach the maintainers of this project at:
 
-- [Slack channel](https://kubernetes.slack.com/messages/sig-network)
+- [Slack channel (#sig-network-agentic-networking)](https://kubernetes.slack.com/archives/C09P6KS6EQZ)
 - [Mailing List](https://groups.google.com/a/kubernetes.io/g/sig-network)
 
 ### Code of conduct
